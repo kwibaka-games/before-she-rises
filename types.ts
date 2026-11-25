@@ -3,7 +3,7 @@
  *
  * These are game-private (the platform treats `view`/`action` as opaque), but
  * they are the contract between `src/games/ice` and `web/games/ice.js`.
- * Keep docs/冰她-后端实现与视图契约.md in sync when changing them.
+ * Keep this contract in sync with docs/en/interfaces.md.
  */
 import type { CardKey, CardView } from './cards.js';
 

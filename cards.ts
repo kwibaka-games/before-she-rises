@@ -2,7 +2,7 @@
  * Static card data for 《冰冷的她醒来之前》.
  *
  * Every card is both a hand resource and (usually) the player's final identity.
- * The table below is a direct transcription of docs/game-rules/before-she-rises.md;
+ * The table below is the canonical card table for the ice game;
  * the only extra information is the per-player-count override list (`variants`),
  * which the rule table keeps in the "数量" column footnotes.
  */
