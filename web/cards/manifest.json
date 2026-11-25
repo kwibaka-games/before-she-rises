@@ -1,0 +1,86 @@
+{
+ "style": "Anima-aesthetic + Anima Turbo + Luminous @Cstyle",
+ "canvas": "768x1024 source; 512x683 WebP for cards",
+ "generated_by": "img-gen/cardgen.py",
+ "note": "All characters are adult women; modest uniforms; no gore or sexual content.",
+ "cards": [
+  {
+   "key": "alien",
+   "file": "alien.webp",
+   "seed": 101,
+   "prompt": "card game artwork, full body, young adult, centered composition, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, eyes visible, realistic proportions, detailed hands, modest clothing, no sexualization, an ordinary quiet transfer student with an androgynous look, calm knowing half-smile, hands behind back, plain dark school uniform, standing in an empty classroom after dusk, cold blue-gray palette, faint window light, subtly unsettling composure, human disguise with no alien features, masterpiece, best quality"
+  },
+  {
+   "key": "president",
+   "file": "president.webp",
+   "seed": 105,
+   "prompt": "card game artwork, full body, young adult, centered composition, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, eyes visible, realistic proportions, detailed hands, modest clothing, no sexualization, a composed young adult student council president with short dark hair, authoritative calm expression, neat dark school uniform with an armband, holding a clipboard, standing in a dim school corridor during a lockdown, cool teal and charcoal palette, cinematic suspense lighting, face clearly visible, masterpiece, best quality"
+  },
+  {
+   "key": "monitor",
+   "file": "monitor.webp",
+   "seed": 106,
+   "prompt": "card game artwork, full body, young adult, centered composition, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, eyes visible, realistic proportions, detailed hands, modest clothing, no sexualization, a gentle but intense class monitor with shoulder-length hair, holding a class notebook against her chest, earnest expression, modest dark school uniform, quiet empty classroom, warm dim amber and charcoal palette, soft window light, masterpiece, best quality"
+  },
+  {
+   "key": "honors",
+   "file": "honors.webp",
+   "seed": 107,
+   "prompt": "card game artwork, full body, young adult, centered composition, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, eyes visible, realistic proportions, detailed hands, modest clothing, no sexualization, a quiet honors student with round glasses, holding an open book, thoughtful uncertain expression, neat dark blue school uniform, library aisle with tall shelves, cool blue-gray palette, soft pool of light, face visible, masterpiece, best quality"
+  },
+  {
+   "key": "discipline",
+   "file": "discipline.webp",
+   "seed": 108,
+   "prompt": "card game artwork, full body, young adult, centered composition, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, eyes visible, realistic proportions, detailed hands, modest clothing, no sexualization, a confident discipline committee member with a neat armband, arms crossed, sharp assessing gaze, dark school uniform, dim school corridor, steel blue and charcoal palette, strong rim light, composed posture, masterpiece, best quality"
+  },
+  {
+   "key": "accomplice",
+   "file": "accomplice.webp",
+   "seed": 204,
+   "prompt": "card game artwork, full body, head to toe, standing, young adult, centered composition, face clearly visible, eyes open, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest clothing, no sexualization, no close-up, a sly loyal schoolgirl in a dark green uniform, standing in a dim stairwell, holding a folded note behind her back, confident sideways glance, face visible, deep green and charcoal palette, soft rim light, secretive expression, full body, masterpiece, best quality"
+  },
+  {
+   "key": "library",
+   "file": "library.webp",
+   "seed": 209,
+   "prompt": "card game artwork, full body, head to toe, standing, young adult, centered composition, face clearly visible, eyes open, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest clothing, no sexualization, no close-up, a calm library committee member with glasses and a cardigan over her uniform, standing between tall bookshelves, holding a thick book, quiet knowing expression, dusty school library, warm brown and muted teal palette, soft desk lamp light, full body, masterpiece, best quality"
+  },
+  {
+   "key": "health",
+   "file": "health.webp",
+   "seed": 501,
+   "prompt": "card game artwork, full-length wide shot, full body from head to shoes, standing far from camera, entire figure visible, young adult woman, face clearly visible, looking at viewer, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest pale mint school uniform and white armband, kind school health committee member standing beside a nurse office desk, holding a first-aid kit, gentle reassuring smile, dim nurse office with cabinets, pale mint and charcoal palette, low-key fluorescent light, no blood, no wounds, no sexualization, masterpiece, best quality"
+  },
+  {
+   "key": "ojou",
+   "file": "ojou.webp",
+   "seed": 211,
+   "prompt": "card game artwork, full body, head to toe, standing, young adult, centered composition, face clearly visible, eyes open, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest clothing, no sexualization, no close-up, an elegant rich young lady standing with one hand on her hip, proud confident expression, long hair, refined dark burgundy school uniform with gold trim, ornate classroom, deep burgundy and antique gold palette, dramatic soft lighting, poised posture, modest, full body, masterpiece, best quality"
+  },
+  {
+   "key": "infected",
+   "file": "infected.webp",
+   "seed": 302,
+   "prompt": "card game artwork, full-length wide shot, full body from head to shoes, standing far from camera, entire figure visible, young adult, face clearly visible, looking at viewer, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest clothing, no sexualization, a pale anxious schoolgirl with messy hair, standing in the school nurse office, holding her bandaged forearm, forcing a reassuring smile, clean white bandage with no visible wound, dark teal school uniform, full-length wide shot, feet visible, sickly green-teal palette, soft fluorescent light, face visible, masterpiece, best quality"
+  },
+  {
+   "key": "news",
+   "file": "news.webp",
+   "seed": 312,
+   "prompt": "card game artwork, full-length wide shot, full body from head to shoes, standing far from camera, entire figure visible, young adult, face clearly visible, looking at viewer, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest clothing, no sexualization, an energetic school newspaper reporter standing in a cluttered club room, holding a small camera and notepad, mischievous grin, dark orange-brown school uniform, full-length wide shot, feet visible, papers and photos on the walls, teal and amber palette, face visible, masterpiece, best quality"
+  },
+  {
+   "key": "homebody",
+   "file": "homebody.webp",
+   "seed": 313,
+   "prompt": "card game artwork, full-length wide shot, full body from head to shoes, standing far from camera, entire figure visible, young adult, face clearly visible, looking at viewer, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest clothing, no sexualization, an exasperated student in a loose cardigan over a school uniform, standing in a dim classroom doorway, pointing toward the exit, annoyed protective expression, face clearly visible, full-length wide shot, feet visible, muted brown and gray palette, soft hallway light, masterpiece, best quality"
+  },
+  {
+   "key": "culprit",
+   "file": "culprit.webp",
+   "seed": 401,
+   "prompt": "card game artwork, full body, head to toe, standing, young adult woman, centered composition, face clearly visible, dark academia suspense atmosphere, muted desaturated colors, cinematic lighting, soft key light on face, realistic proportions, detailed hands, modest dark school uniform, no sexualization, a calm, curious female culprit with long dark hair, standing beside a laboratory bench, holding a small notebook and a glass test tube, faint unsettling smile, science classroom with glassware, a stylized crimson-red shadow cast on the wall behind her, subtle red rim light, charcoal and deep red palette, low-key lighting, no blood, no wounds, no weapons, full-length wide shot, masterpiece, best quality"
+  }
+ ]
+}
